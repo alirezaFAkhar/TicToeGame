@@ -14,8 +14,13 @@
 
 ## :star2: About the Project
 
+### :camera: Screenshots
+<div align="center"> <a href="https://alirezafakhar.github.io/TicToeGame/"><img src="https://github.com/alirezaFAkhar/TicToeGame/blob/main/asset/image/TicToeGame.webp" alt='image' width='800'/></a> </div>
+
+
+
 ## :handshake: Contact
 
-Alireza Fakhar - alirezaaaafakhar1996@gmail.com
+Alireza Fakhar -  alirezaaaafakhar1996@gmail.com
 
 Project Link: [https://github.com/alirezaFAkhar/TicToeGame](https://github.com/alirezaFAkhar/TicToeGame)
